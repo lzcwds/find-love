@@ -18,7 +18,7 @@ module.exports = {
     },
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: "canvas.js"
+        filename: "js/canvas.js"
     },
 
     module: {
